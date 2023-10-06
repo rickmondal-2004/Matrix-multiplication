@@ -1,2 +1,2 @@
 # Matrix-multiplication
-A simple Matrix multiplication program using C++ and oneAPI
+A simple Matrix multiplication calculation program using C++ and oneAPI
